@@ -13,5 +13,5 @@
         "port": 80,
         "bind": "0.0.0.0"
     },
-    "driver": "redis://172.17.0.13:6379"
+    "driver": "redis://redis:6379"
 }
